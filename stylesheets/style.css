@@ -1,0 +1,60 @@
+    html {
+        background-color: #14171e;
+    }
+
+    body {
+        color: white;
+        font-size: large;
+        font-family: Arial;
+    }
+
+    h1 {
+        color: white;
+        font-size: 500%;
+        text-align: center;
+        font-family: Arial;
+        position: relative;
+        top: 0%;
+
+    }
+
+    h2 {
+        color: white;
+    }
+
+    h3 {
+        font-size: 80%;
+        position: relative;
+        bottom: 17%;
+    }
+
+    h4 {
+        text-align: center;
+        font-family: Arial;
+    }
+
+    .userUpload {
+        background-color: black;
+        border: 5px solid gold;
+        width: 50%;
+        left: 15%;
+        position: relative;
+        margin: 0% 5%;
+        padding: 5%;
+
+    }
+
+    .userUpload input[type="file"] {
+        color: white;
+
+
+    }
+
+    .userUpload input[type="submit"] {
+
+    }
+
+    img {
+        width: 50px;
+        height: 50px;
+    }

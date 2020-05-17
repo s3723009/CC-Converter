@@ -1,0 +1,22 @@
+runtime: php55
+api_version: 1
+
+handlers:
+- url: /stylesheets
+  static_dir: stylesheets
+  
+- url: /images
+  static_dir: images
+  
+- url: /
+  script: index.php
+  
+- url: /upload
+  script: upload_handler.php
+
+- url: /email
+  script: tasks/email.php
+   
+- url: /email_handler
+  script: tasks/email_handler.php
+
