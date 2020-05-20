@@ -50,11 +50,10 @@
 
     }
 
-    .userUpload input[type="submit"] {
-
+    .userUpload input[type="button"] {
     }
 
-    img {
-        width: 50px;
-        height: 50px;
+    .disclaimer {
+        position: relative;
+        top: 20%;
     }

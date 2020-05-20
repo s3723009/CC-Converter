@@ -1,6 +1,5 @@
 {
     "require": {
-        "google/appengine-php-sdk": "^1.9",
-        "google/cloud-tasks": "^1.6"
+        "google/appengine-php-sdk": "^1.9"
     }
 }
